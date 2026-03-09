@@ -1,1 +1,5 @@
-
+- [Intro - Lab 1](https://colab.research.google.com/drive/1_vNa9LG_ef4Geh4qnEZKDCLiXUIO30q_)
+- [Regression - Lab 2](https://colab.research.google.com/drive/1hjIp2etCkS6Q4b0nyIVl5tv1Gzd1BjtV)
+- [Logistic - Lab 3](https://colab.research.google.com/drive/1IuoFR9XuIEiWkKDtBvaTodRCzYRLPbVO)
+- [KNN - Lab 4](https://colab.research.google.com/drive/1YehAG-F6watYcBuCpfnDDbjlT0MxvSwO)
+- [Random Forest - Lab 5](https://colab.research.google.com/drive/1ytwrqvoqLrc6OVePrmnWt8EkH002PRS6)
