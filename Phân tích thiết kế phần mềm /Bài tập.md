@@ -21,8 +21,20 @@ Các bên liên quan:
 * Phòng đào tạo: Mở học phần, quản lí lịch mở đăng kí
 * Quản trị hệ thống: Quản lí tài khoản, phân quyền
 
+Yêu cầu:
+* Chức năng:
+  * Sinh viên đăng kí học phần trong thời gian mở
+  * Hệ thống dựa trên điều kiện tiên quyết và lộ trình đào tạo để mở học phần
+  * Hệ thống giử báo cáo thành công khi đăng kí/hủy học phần
+* Phi chức năng:
+  * Hiệu năng: 30k sinh viên đăng kí đồng thời
+  * Bảo mật: Các sinh viên không xem được lịch của nhau
+  * Giao diện: Dễ dùng cho cả web, mobile
+
 2 kỹ thuật thu thập yêu cầu:
-* Khảo sát các học phần sinh viên muốn mở
+* Khảo sát
   * Ví dụ: Trước khi vào web thì sinh viên sẽ làm khảo sát
-* Quan sát lộ trình đào tạo mà phòng đào tạo yêu cầu
+* Quan sát
   * Ví dụ: Mở các học phần theo lộ trình đào tạo
+ 
+ 
