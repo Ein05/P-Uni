@@ -13,7 +13,7 @@ Quy trình phát triển phần mềm gồm 6 bước:
 * Triển khai (Deployment)
 * Bảo trì (Maintenance)
 
-Một số cách tiếp caanh trong phân tích và thiết kế hệ thống:
+Một số cách tiếp cận trong phân tích và thiết kế hệ thống:
 * Waterfall: Hệ thống ít thay đổi
 * OOP: Hệ thống lớn
 * Agile: Thay đổi liên tục
