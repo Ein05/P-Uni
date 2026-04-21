@@ -2,7 +2,7 @@
 
 Học môn này chuẩn mới viết đồ án chuẩn. Thiết kế hệ thống mới khó, code mới dễ
 Phân tích nghiệp vụ sai thì phần mềm không ai mua.
-Đầu ra môn học: vẽ được mô hình thiết kê hệ thống hoàn thiện.
+Đầu ra môn học: vẽ được mô hình thiết kế hệ thống hoàn thiện.
 Đặc tả luồng quan trọng cần phải có trong báo cáo (Buổi 4)
 
 Quy trình phát triển phần mềm gồm 6 bước:
