@@ -1,6 +1,6 @@
 # TỔNG QUAN VỀ PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG CNTT
 
-Học môn này chuẩn mới viết đồ án chuẩn. Thiết kế hệ thống mới khó, code mới dễ.
+Học môn này chuẩn mới viết đồ án chuẩn. Thiết kế hệ thống mới khó, code dễ.
 
 Phân tích nghiệp vụ sai thì phần mềm không ai mua.
 
