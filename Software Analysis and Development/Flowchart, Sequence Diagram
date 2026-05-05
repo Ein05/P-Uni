@@ -1,7 +1,14 @@
+Usecase: Liệt kê các chức năng của hệ thống
 Flowchart: Mô tả các nghiệp vụ. Hành động và điều kiện là chính
 Activity Diagram (chuẩn UML): Mô tả nghiệp vụ lẫn hệ thống (chi tiết hơn bên trên). Đồng bộ và chia nhánh thằng trên không có
 
 Điểm khác:
 - Flowchart có câu hỏi điều kiện bên trong hình thoi, Activity Diagram thì không
 
-Sequence Diagram (Biểu đồ tuần tự):
+Sequence Diagram (Biểu đồ tuần tự): Là một loại biểu đồ UML mô tả các đối tượng (actor) tương tác với nhau
+Dùng trong: Mô tả nghiệp vụ và hệ thống (Đặc tả thế nào vẽ thế đấy)
+Các thành phần chính:
+- Lifetime
+- 
+-
+- Message (Thông điệp chính mình, đồng bộ (hđ sau phụ thuộc vào hành động trước và là đường kín, không đồng bộ)
