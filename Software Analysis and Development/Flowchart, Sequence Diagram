@@ -1,0 +1,7 @@
+Flowchart: Mô tả các nghiệp vụ. Hành động và điều kiện là chính
+Activity Diagram (chuẩn UML): Mô tả nghiệp vụ lẫn hệ thống (chi tiết hơn bên trên). Đồng bộ và chia nhánh thằng trên không có
+
+Điểm khác:
+- Flowchart có câu hỏi điều kiện bên trong hình thoi, Activity Diagram thì không
+
+Sequence Diagram (Biểu đồ tuần tự):
