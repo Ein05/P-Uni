@@ -1,0 +1,12 @@
+Class gồm 3 thành phần: tên class, thuộc tính, phương thức (Tên lớp là bắt buộc duy nhất)
+
+Phương thức là hành động và cũng là hàm (function)
+
+Tính đóng gói: không nhìn thấy bản chất của thuộc tính private mà thông qua phương thức
+
+Mối quan hệ giữa các lớp
+* Kết hợp: Dùng cho 2 class ngang hàng
+* Kế thừa: Lớp con kế thừa lớp cha
+* Phụ thuộc: Nếu thay đỏi lớp này sẽ thay đổi lớp kia (nhưng không ngược lại)
+* Tổng hợp: Khi thư viên đóng của thì vẫn còn sách, khi đội bóng phá sản thì cầu thủ vẫn còn, xóa giỏ hàng thì sản phẩm vẫn còn (order và product là mối quan hệ tổng hợp)
+* Thành phần: class 2 phụ thuộc hoàn toàn vào class 1 
