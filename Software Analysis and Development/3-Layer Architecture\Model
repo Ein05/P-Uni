@@ -1,0 +1,6 @@
+Có 3 lớp trong ...: Presentation -> Business Logic -> Data Access
+- Lớp trình bày (GUI) - View: Xử lý giao diện người dùng (UI/UX)
+- Lớp nghiệp vụ (Business Logic Layer) - Control: Xử lí backend xác định logic
+- Lớp truy cập dữ liệu (Data Access Layer): Chỉ cung cấp dữ liệu thông qua ...
+
+-> Dùng mô hình này dùng để thiết kế ...
