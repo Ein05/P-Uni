@@ -1,0 +1,13 @@
+ERD (Entity–Relationship Diagram) là một mô hình dùng để thiết kế cơ sở dữ liệu
+-> Là sơ đò ER được vẽ bằng ảnh
+
+Giúp mô tả các thực thể (entity), -> Những đối tượng nào
+thuộc tính (attribute),           -> Mỗi đối tượng có thông tin gì
+mối quan hệ (relationship),       -> Quan hệ giữa các đối tượng ra sao
+bội số (cardinality)              -> Cho biết số lượng quan hệ (1-1, 1-n, n-n)
+
+Cơ sở dữ liệu là xương sống của phần mềm, hệ thống thông tin nên phần này quan trọng
+
+Lược đồ ER là bản thiết kế database ở mức khái niệm
+-> Ý tưởng/mô hình
+
