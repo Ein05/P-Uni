@@ -1,0 +1,3 @@
+Thực hành preprocessing dữ liệu sau với thư viện scikitlearn và sử dụng 1 model Logistic Regression để phân loại trường thông tin ""class""
+
+https://raw.githubusercontent.com/thieu1995/csv-files/main/data/pandas/hepatitis.csv
