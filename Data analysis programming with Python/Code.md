@@ -8,5 +8,7 @@
 - [Exercise 9 Scikitlearn]()
 - [Exercise 10 Regression]()
 - [Exercise 11 Classification]()
+- [Time Series](https://colab.research.google.com/drive/1-K34C_AfdjQHcl_AyxB5QpjVSgXqZz1w?usp=sharing)
+- [NLP](https://colab.research.google.com/drive/195tL7z8N5GhoC0ZjLz-KDjzJcmJmJi2C?usp=sharing)
 - [KTGK](https://github.com/thieu1995/pandas/blob/main/12_online/adult.ipynb)
 - [BTL-KTCK](https://colab.research.google.com/drive/1SOOJGcO-8HtYbdbRiUCOjA6xTd-CAGMl#scrollTo=3QoZc1JKAmZj)
