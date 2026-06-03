@@ -1,5 +1,4 @@
-Mô hình Business Model Canvas (BMC) cho nước uống dinh dưỡng an toàn và các giải pháp CNTT đi kèm,
-được xây dựng dựa trên bối cảnh chiến lược và khung dịch vụ phân tích nghiệp vụ:
+## Mô hình Business Model Canvas (BMC) cho nước uống dinh dưỡng an toàn và các giải pháp CNTT đi kèm, được xây dựng dựa trên bối cảnh chiến lược và khung dịch vụ phân tích nghiệp vụ:
 
 1. Thành phần Mô hình kinh doanh Canvas (BMC)
 - Phân khúc khách hàng: Người sống lành mạnh, gia đình có trẻ nhỏ/người già, người tập thể thao.
@@ -11,6 +10,7 @@ Mô hình Business Model Canvas (BMC) cho nước uống dinh dưỡng an toàn 
 - Nguồn lực chính: Chuyên gia dinh dưỡng, nhà máy, nền tảng dữ liệu khách hàng.
 - Đối tác chính: Nông trại hữu cơ, đơn vị logistics, phòng tập gym/sức khỏe.
 - Cơ cấu chi phí: Nguyên vật liệu, vận hành nhà máy, marketing, duy trì hệ thống CNTT.
+
 2. Đề xuất giải pháp CNTT ứng dụng
 - Các giải pháp này nhằm cải tiến quy trình và định nghĩa yêu cầu hệ thống để tạo ra lợi ích kinh doanh:
 - Hệ thống Truy xuất nguồn gốc (QR Code): Cho phép khách hàng kiểm tra quy trình sản xuất và nguồn gốc nguyên liệu thực tế
