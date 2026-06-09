@@ -18,3 +18,5 @@
 - Hệ thống CRM & Data Analytics: Thu thập dữ liệu khách hàng để cá nhân hóa các khuyến nghị dinh dưỡng và ưu đãi
 - Hệ thống Quản lý Sản xuất (MES): Số hóa quy trình kiểm soát chất lượng tại nhà máy, đảm bảo tính đồng bộ giữa hệ thống và nghiệp vụ
 - Nền tảng đào tạo trực tuyến: Cung cấp kiến thức về dinh dưỡng an toàn cho khách hàng và đào tạo nhân viên về quy trình mới
+
+BMC dùng cho mô hình kinh doanh
